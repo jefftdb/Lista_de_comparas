@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de compas</string>
+    <string name="action_settings">Settings</string>
+    <string name="ContextoDados_onCreate">CREATE TABLE Agenda (ID INTEGER PRIMARY KEY AUTOINCREMENT, Produto TEXT);</string>
+    <string name="title_activity_celula">celula</string>
+    <string name="novo">Novo</string>
+</resources>
